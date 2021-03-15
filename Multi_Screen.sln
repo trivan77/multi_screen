@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Screen", "Multi_Screen\Multi_Screen.csproj", "{37749C47-3428-452B-BFE9-375F159B00EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceDetectAndRecog", "FaceDetectAndRecog\FaceDetectAndRecog.csproj", "{56E748C5-327A-43BA-8D22-8CB32352B10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37749C47-3428-452B-BFE9-375F159B00EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37749C47-3428-452B-BFE9-375F159B00EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37749C47-3428-452B-BFE9-375F159B00EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37749C47-3428-452B-BFE9-375F159B00EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E748C5-327A-43BA-8D22-8CB32352B10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E748C5-327A-43BA-8D22-8CB32352B10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E748C5-327A-43BA-8D22-8CB32352B10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E748C5-327A-43BA-8D22-8CB32352B10E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {275EC62D-53CC-45F8-84A6-E1DB9A3361A4}
+	EndGlobalSection
+EndGlobal
